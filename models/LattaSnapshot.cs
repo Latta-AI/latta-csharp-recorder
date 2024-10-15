@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Latta_CSharp.models
 {
-    internal class LattaSnapshot
+    public class LattaSnapshot
     {
         public string id;
     }

@@ -1,6 +1,6 @@
 ﻿namespace Latta_CSharp.models
 {
-    internal class LattaInstance
+    public class LattaInstance
     {
         public string id;
     }

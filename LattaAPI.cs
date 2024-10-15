@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Latta_CSharp
 {
-    internal class LattaAPI
+    public class LattaAPI
     {
         private string apiKey;
 
